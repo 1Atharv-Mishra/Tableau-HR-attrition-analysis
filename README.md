@@ -19,15 +19,15 @@ The impact of job role, education, and salary on attrition.
 Insights on work-life balance and years at company.
 
 Designed visualizations to make findings easy to interpret for HR teams and management.
-📂 Repository Contents
+# 📂 Repository Contents  
+- 📑 [HR Data.xlsx](./data/HR%20Data.xlsx) → Raw dataset used for analysis.  
+- 📊 [Tableau_Analytics_dashboard_AM.twb](./tableau/Tableau_Analytics_dashboard_AM.twb) → Tableau workbook file.  
+- 🖼️ Dashboard Screenshot:  
 
-<a href="https://github.com/1Atharv-Mishra/Tableau-HR-attrition-analysis/blob/main/HR%20Data.xlsx"</a>
- → Raw dataset used for analysis.
+  ![Dashboard Screenshot](https://github.com/1Atharv-Mishra/Tableau-HR-attrition-analysis/blob/main/HR_analytics_AM.png)  
 
-<a href="Tableau_Analytics_dashboard_AM.twb"</a>
- → Tableau workbook file.
-Dashboard Screenshot → <a href="https://github.com/1Atharv-Mishra/Tableau-HR-attrition-analysis/blob/main/HR_analytics_AM.png"</a>
 
 📬 Connect With Me
 
-If you liked this project, feel free to ⭐ the repo and connect with me on LinkedIn: <a href="www.linkedin.com/in/atharv-mishra-228920339"</a>
+If you liked this project, feel free to ⭐ the repo and connect with me on LinkedIn: [Connect with me on LinkedIn](www.linkedin.com/in/atharv-mishra-228920339)
+
